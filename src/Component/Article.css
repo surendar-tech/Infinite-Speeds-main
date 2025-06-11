@@ -1,0 +1,70 @@
+.ex-header {
+    padding-top: 8.5rem;
+    padding-bottom: 4rem;
+    background-color:#1c262f;
+}
+.ex-header h1 {
+    color: #fff;
+    font-family: "Poppins", sans-serif;
+}
+.ex-cards-1 .card {
+    border: none;
+    background-color: transparent;
+}
+.ex-cards-1 .card .fa-stack {
+    width: 2em;
+    font-size: 1.125rem;
+}
+.fa-stack {
+    display: inline-block;
+    height: 2em;
+    line-height: 2em;
+    position: relative;
+    vertical-align: middle;
+    width: 2.5em;
+}
+.ex-cards-1 .card .fa-stack-2x svg {
+    color: #0ee951;
+}
+.fas {
+    font-weight: 900;
+}
+.fa, .fas {
+    font-weight: 900;
+}
+.fa, .far, .fas {
+    font-family: "Font Awesome 5 Free";
+}
+.fa-stack-2x {
+    font-size: 2em;
+}
+.fa-stack-1x, .fa-stack-2x {
+    right: 20px;
+    bottom: 2px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    color: #0ee951;
+}
+.fa-stack-1x {
+    color: #ffff;
+    font-weight: 700;
+    line-height: 2.125rem;
+    position: relative;
+    right: 9px;
+    bottom: 3px;
+}
+.ex-basic-1 .text-box {
+    padding: 1.25rem 1.25rem 0.5rem 1.25rem;
+    background-color: #f7f9fd;
+}
+li {
+    list-style-type: none;
+}
+.square svg {
+    height: 5px;
+    width: 5px;
+}
+.ti {
+    margin-left: 10px;
+}
